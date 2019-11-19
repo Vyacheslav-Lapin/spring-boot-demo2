@@ -1,0 +1,7 @@
+/**/logs/
+
+/**/target/
+/**/pom.xml.versionsBackup
+
+# Project exclude paths
+/.mvn/
